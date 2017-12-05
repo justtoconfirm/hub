@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/justtoconfirm/hub/issues"
   },
-  "homepage": "https://github.com/justtoconfirm/hub#readme"
+  "homepage": "https://github.com/justtoconfirm/hub#readme",
+  "devDependencies": {
+    "vue": "^2.5.9"
+  }
 }

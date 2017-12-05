@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/justtoconfirm/hub#readme",
   "devDependencies": {
-    "vue": "^2.5.9"
+    "vue": "^2.5.9",
+    "vue-cli": "^2.9.2"
   }
 }

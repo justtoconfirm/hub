@@ -9,13 +9,13 @@
 </template>
 
 <script>
-	export default {
-		name: 'login',
-		data: function() {
-			return {}
-		},
-		methods: {}
-	}
+  export default {
+    name: 'login',
+    data: function () {
+      return {}
+    },
+    methods: {}
+  }
 </script>
 
 <style scoped>
